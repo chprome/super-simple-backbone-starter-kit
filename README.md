@@ -13,7 +13,7 @@
 
 Just download/fork/clone and launch nodejs with
 ```bash
-nodejs web.js
+node web.js
 ```
 
 
