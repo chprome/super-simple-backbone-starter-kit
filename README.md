@@ -11,7 +11,11 @@
 
 ## Installation
 
-Just download/fork/clone and launch index.html in a browser with HTTP server.
+Just download/fork/clone and launch nodejs with
+```bash
+nodejs web.js
+```
+
 
 ## Why?
 
